@@ -1,0 +1,25 @@
+{
+  "name": "brunch-app",
+  "description": "Description",
+  "author": "Your Name",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "brunch watch --server -d",
+    "build": "brunch build --production -d"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "auto-reload-brunch": "^2.0.0",
+    "brunch": "2.9.1",
+    "clean-css-brunch": "^2.0.0",
+    "css-brunch": "^2.0.0",
+    "javascript-brunch": "^2.0.0",
+    "normalize-scss": "^6.0.0",
+    "sass-brunch": "^2.9.0",
+    "uglify-js-brunch": "^2.0.0"
+  }
+}

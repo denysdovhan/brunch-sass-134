@@ -13,7 +13,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "brunch": "2.9.1",
+    "brunch": "2.10.8",
     "normalize-scss": "^6.0.0",
     "sass-brunch": "^2.9.0"
   }
